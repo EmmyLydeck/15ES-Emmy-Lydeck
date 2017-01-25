@@ -1,0 +1,10 @@
+INDEX VERSION 1.129+/Users/Emster/15ES-Emmy-Lydeck/.metadata/.plugins/org.eclipse.jdt.core
+3330539510.index
+1157562777.index
+3960695814.index
+269547414.index
+2462670758.index
+337624426.index
+995153890.index
+1416901957.index
+2978105252.index
