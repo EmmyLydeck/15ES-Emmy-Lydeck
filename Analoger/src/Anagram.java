@@ -5,6 +5,7 @@ public class Anagram {
 
 	public static void main(String[] args) {
 
+		
 		// Skriv ut lite text och be användaren skriva in en sträng.
 
 		String str = new String();
